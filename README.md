@@ -1,4 +1,4 @@
-# wordCountFromUrl
+## wordCountFromUrl
 Python script to count top N words of a webpage
 
 ## Usage ##
